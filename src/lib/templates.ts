@@ -1,8 +1,8 @@
-import t1 from "@/assets/templates/t1.png.asset.json";
-import t2 from "@/assets/templates/t2.png.asset.json";
-import t3 from "@/assets/templates/t3.png.asset.json";
-import t4 from "@/assets/templates/t4.png.asset.json";
-import t5 from "@/assets/templates/t5.png.asset.json";
+import t1 from "@/assets/templates/t1.webp";
+import t2 from "@/assets/templates/t2.webp";
+import t3 from "@/assets/templates/t3.webp";
+import t4 from "@/assets/templates/t4.webp";
+import t5 from "@/assets/templates/t5.webp";
 
 // Canvas is 1080x1920. Positions/sizes are percentages of canvas.
 export type TextZone = {
