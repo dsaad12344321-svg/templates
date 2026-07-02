@@ -41,7 +41,7 @@ export const TEMPLATES: Template[] = [
     preview: t1.url,
     overlay: 0.15,
     zones: [
-      { id: "a", label: "كلمة افتتاحية", defaultText: "تخيل..", x: 55, y: 8, w: 40, fontSize: 60, weight: 700, color: YELLOW, align: "right", shadow: true },
+      { id: "a", label: "كلمة افتتاحية", defaultText: "تخيل..", x: 55, y: 8, w: 40, fontSize: 60, weight: 700, color: WHITE , align: "right", shadow: true },
       { id: "b", label: "السطر الأول", defaultText: "أن تستيقظ كل يوم", x: 5, y: 15, w: 90, fontSize: 96, weight: 900, color: YELLOW, align: "right", shadow: true },
       { id: "c", label: "السطر الثاني", defaultText: "وأنت حر ماليا", x: 5, y: 25, w: 90, fontSize: 96, weight: 900, color: YELLOW, align: "right", shadow: true },
       { id: "d", label: "التذييل", defaultText: "لا دوام ..لا مدير", x: 30, y: 35, w: 65, fontSize: 44, weight: 700, color: WHITE, align: "right", shadow: true },
